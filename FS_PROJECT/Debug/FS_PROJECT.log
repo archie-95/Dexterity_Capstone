@@ -1,0 +1,3 @@
+﻿  dashboard.cpp
+c:\users\archit\source\repos\fs_project\fs_project\dashboard.cpp(66): warning C4101: 'buffer': unreferenced local variable
+  FS_PROJECT.vcxproj -> C:\Users\Archit\source\repos\FS_PROJECT\Debug\FS_PROJECT.exe

@@ -1,0 +1,6 @@
+1|archit|9|21|ise|6|
+2|anshuman|8|21|ise|6|
+23|AKSHAT|9|21|ISE|6|
+5|kat|6|22|ise|6|
+4|sh|4|22|ise|6|
+11|as|11|21|ise|6|
