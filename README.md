@@ -9,6 +9,6 @@ To run the project
 
 3.Download the required libraries for c++ 
 
-4.Open the .sln file in Visual studio
+4.Open the .sln file in Visual studio 2015
 
 5.Execute
